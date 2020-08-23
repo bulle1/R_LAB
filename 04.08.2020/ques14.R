@@ -1,2 +1,2 @@
-objects()
+
 ls()
