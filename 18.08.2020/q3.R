@@ -6,7 +6,7 @@ count <- 2
 
 print(0)
 print(1)
-nterms<- nterms-2
+
 
 while(count < nterms) {
   nth <- n1 + n2
