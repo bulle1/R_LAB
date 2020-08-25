@@ -1,3 +1,3 @@
 rm(newnum)
 
-rm(list=ls)
+rm(list=ls())
